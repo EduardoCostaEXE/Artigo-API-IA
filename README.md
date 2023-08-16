@@ -27,14 +27,19 @@ Comporte-se como um escritor de artigos tech mobile e escreva um artigo atendend
 - Testes e Depuração (Estratégias para testar e depurar solicitações de API)
 - Exemplos Práticos em Swift
 - Conclusão
+  
 2.
 Me dê o melhor exemplo possível de uma requisição pra poder usar de exemplo pra quem está aprendendo os comandos. Quero que seja uma requisição de pokémon onde ele dá um get no pikachu, use uma api publica real e só quero a parte do código onde é feito o get
+
 3.
 Crie um parágrafo de artigo sobre os códigos de resposta de api
+
 4.
 Mostre parsing em código swift, faça isso com algo genérico, como pessoa, tendo nome, sexo entro outros
+
 5.
 Me mostre apis publicas famosas para serem usadas para estudo
+
 6.
 Me dê ideias de títulos para o meu artigo
 
